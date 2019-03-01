@@ -9,10 +9,10 @@ var Twitter = require('twitter');
 const PORT = 3000;
 
 var client = new Twitter({
-  consumer_key: 'LAbE11fZcOY1MawSSYyYVvQYj',
-  consumer_secret: 'CLdICEmZsupoNP4TZF8BUu4wi9xgCZZuBiHwrEfOHrG6OHcBl1',
-  access_token_key: '1050541662332628992-YYWa2GGU6Gg37FWGM6ilxlpJAocLS9',
-  access_token_secret: 'RfLiBqGTYQNLnhidaLnilBP6dLLp7175smeCVDLgxFlC6'
+  consumer_key: 'LAbE11fcOY1MawSSYyYVvQYj',
+  consumer_secret: 'kLdICEmZsupoNP4TZF8BUu4wi9xgCZZuBiHwrEfOHrG6OHcBl1',
+  access_token_key: '150541662332628992-YYWa2GGU6Gg37FWGM6ilxlpJAocLS9',
+  access_token_secret: 'RLiBqGTYQNLnhidaLnilBP6dLLp7175smeCVDLgxFlC6'
 });
 
 
